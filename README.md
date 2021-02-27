@@ -1,1 +1,1 @@
-# AWS_EC2_VPC_SUBNET
+Launching EC2 instance using dynamic vpcid and subnet id
